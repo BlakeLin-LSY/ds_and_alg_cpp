@@ -32,3 +32,16 @@ Implementation of an ADT
 - Deque     >> Double-Ended Queue
 
 // Linked Structures
+
+# File Naming
+
+---
+"""
+
+[Q]: Discussion Questions
+
+[L]: Learn part
+
+    _xx.yy_: chapters
+
+"""
