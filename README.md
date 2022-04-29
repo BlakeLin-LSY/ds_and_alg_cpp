@@ -23,4 +23,27 @@ Data Structure and Algorithm using C++, practicing and notes.
 - [CSES Problem Set](https://cses.fi/problemset/list/)
 - [Library Checker](https://judge.yosupo.jp/)
 - [codeforces](http://cfrp.azurewebsites.net/)
-- 
+
+## Trivials
+
+- [**Speed up I/O**](#speed-up-I/O-in-C++)
+
+
+
+
+
+
+---
+
+### Speed up I/O in C++
+
+``` C++
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(0);
+```
+
+> [ref1](https://www.hankcs.com/program/cpp/cin-tie-with-sync_with_stdio-acceleration-input-and-output.html)
+
+> [ref2](https://www.796t.com/post/MmcwYw==.html)
+
+
