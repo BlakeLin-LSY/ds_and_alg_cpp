@@ -42,6 +42,8 @@ Implementation of an ADT
 
 [L]: Learn part
 
-    _xx.yy_: chapters
+    xx.yy_: chapters
+
+[O]: Others
 
 """
