@@ -33,17 +33,17 @@ Implementation of an ADT
 
 // Linked Structures
 
-# File Naming
+### File Naming
 
 ---
 """
 
-[Q]: Discussion Questions
-
 [L]: Learn part
 
-    xx.yy_: chapters
+    xx.yy_: chapters  
 
-[O]: Others
+[Q]: Discussion Questions
+
+[z]: Others
 
 """
