@@ -36,14 +36,12 @@ Implementation of an ADT
 ### File Naming
 
 ---
-"""
 
-[L]: Learn part
+> [L]: Learn part
 
     xx.yy_: chapters  
 
-[Q]: Discussion Questions
+> [Q]: Discussion Questions
 
-[z]: Others
+> [Z]: Other part
 
-"""
