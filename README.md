@@ -26,7 +26,7 @@ Data Structure and Algorithm using C++, practicing and notes.
 
 ## Trivials
 
-- [**Speed up I/O**](#speed-up-I/O-in-C++)
+- [**Speed up I/O in C++**](#speed-up-io-in-c)
 
 
 
@@ -36,6 +36,8 @@ Data Structure and Algorithm using C++, practicing and notes.
 ---
 
 ### Speed up I/O in C++
+
+> Unbound cout & stdio synchronization (C++ & C mixed print out use);
 
 ``` C++
     std::ios::sync_with_stdio(false);

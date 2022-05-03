@@ -25,7 +25,7 @@ int main(){
 
 /*
 
-Q: Convert the following infix expressions to prefix (use full parentheses):
+Q: Convert the following infix expressions to prefix "(use full parentheses):
     Examples:
         (A+B)*(C+D)*(E+F)
         A+((B+C)*(D+E))
@@ -37,5 +37,7 @@ Q: Convert the following infix expressions to prefix (use full parentheses):
 2. character precedence (/,*,+,-);
 3. stack -> bracket pairs
 
+
+Q: using the "direct conversion" algorithm. Show the stack as the conversion takes place.
 
 */
