@@ -27,6 +27,7 @@ Data Structure and Algorithm using C++, practicing and notes.
 ## Trivials
 
 - [**Speed up I/O in C++**](#speed-up-io-in-c)
+- [P vs. NP](#p-vs.-np)
 
 
 
@@ -49,3 +50,6 @@ Data Structure and Algorithm using C++, practicing and notes.
 > [ref2](https://www.796t.com/post/MmcwYw==.html)
 
 
+### P vs. NP
+
+[![P vs. NP](https://i.ytimg.com/vi/YX40hbAHx3s/maxresdefault.jpg)](https://youtu.be/YX40hbAHx3s)
