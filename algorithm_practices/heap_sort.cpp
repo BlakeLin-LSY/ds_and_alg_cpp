@@ -1,14 +1,27 @@
 //  Heap sort
 //      No extra space, in-place sort, efficient sorting algorithm.
+//      another very efficient general purpose in-place comparison-based sort algorithm. (compete with "quick sort")
+//
+//  Complexity:
+//
 //  Time:       O(nlogn)
 //  Average:    O(nlogn)
 //  Best:       O(nlogn)
 //  Worst:      O(nlogn)
+//
 //  Space:      O(1)
 //  Stability:  No
-//  Pros:    
-//  Cons:    
 
+//  Pros:    
+//      -   Easy implementation
+//      -   No extra memory use
+//      -   
+//  Cons:    
+//      -   poor locality of reference (the accesses to the implicit tree are widely scattered and mostly random)
+//      -   inherently serial nature (no straightforward way to convert it to parallel algorithm)
+//      -   
+//      -   not too much applications (since Quicksort and Mergesort are better in practice)
+//          well-implemented quicksort is usually 2–3 times faster than heapsort
 
 // Reference
 // https://www.mygreatlearning.com/blog/heap-sort/
