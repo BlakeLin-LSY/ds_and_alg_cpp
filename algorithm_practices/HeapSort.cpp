@@ -65,7 +65,7 @@ void pullup(){
 
 }
 
-void heapsort(int arr[], int n){
+void HeapSort(int arr[], int n){
     for(int i=n/2-1; i >=0; --i){
         heapify(arr, n, i);
     }
@@ -89,7 +89,7 @@ int main(){
     cout << "Original arr:" << endl;
     display(arr, n);
     cout << "Heap-sorted arr:" << endl;
-    heapsort(arr, n);
+    HeapSort(arr, n);
     display(arr, n);
 
     return 0;
