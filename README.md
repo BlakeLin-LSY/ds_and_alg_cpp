@@ -30,8 +30,9 @@ Data Structure and Algorithm using C++, practicing and notes.
 
 ---
 
-- [Geeksforgeeks](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)
+- [Sort-Algorithms-wiki](https://en.wikipedia.org/wiki/Sorting_algorithm)
 - [Sorting-Algorithms](https://www.mygreatlearning.com/blog/full-stack-development/algorithm/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)
 
 > Online Resources
 
