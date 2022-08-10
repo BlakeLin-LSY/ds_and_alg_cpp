@@ -2,6 +2,12 @@
 //      one of the most widely used sorting algorithms, fast in practice.
 //      usually use Recursion in quicksort implementation.
 //      A "pivot" choosing is important.
+// 
+//  [Personal Note]
+//      Like Insertion Sort, but more efficient(strategical with partition and recursion).
+//      Pivot-choosing can have variants of implements.
+//      In practice, 
+//          quicksort > merge sort >> selection sort & insertion sort.
 //
 //  Complexity:
 //
@@ -19,14 +25,19 @@
 //      -   Divide and conquer (split into sub-problems, then merge)
 //      -   
 //  Cons:    
-//      -   Extra memory needed
+//      -   Not a stable sort --> the swap could lead to un-stability.
+//      -   Not suitable for small size array sorting. (insertion sort is efficient enough)
 //      -   
-//      -   
-//      -   
+
+//  Related Questions:
+//      -   Rearrange numbers (Positive, Negative, Pos..., Neg..., ...)
+//      -   Move all 0’s (to the end of the array while maintaining the relative order of the non-zero elements)
+//      -   Find the kth largest
 
 // Reference
 // 
 // https://iq.opengenus.org/quick-sort/
+// https://www.mygreatlearning.com/blog/quick-sort-algorithm/       -> check this to find related questions
 // https://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html
 
 
