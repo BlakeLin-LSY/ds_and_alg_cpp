@@ -44,16 +44,19 @@ void CountSort(int arr[], int n){
     }
 
     int c_arr[max_v+1]={0};
-    for(int i=0; i<=n; ++i){
+    for(int i=0; i<n; ++i){
         c_arr[arr[i]]+=1;
     }
-    display(c_arr, max_v+1);
+    // cout << "Count array:" << endl;
+    // for(int i=0; i<=max_v;++i) cout << i << " ";
+    // cout << endl;
+    // display(c_arr, max_v+1);
 
-    for(int i=1; i<=n; ++i){
+    for(int i=1; i<=max_v; ++i){
         c_arr[i]+=c_arr[i-1];
     }
 
-    display(c_arr, max_v+1);
+    // display(c_arr, max_v+1);
 
     for(int i=1; i<=n; ++i){
         c_arr[arr[i]]-=1;
